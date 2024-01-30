@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource prefix="icons">
+		<file alias="icon.png">images/program_icon.png</file>
+		<file alias="on.png">images/on_icon.png</file>
+		<file alias="off.png">images/off_icon.png</file>
+		<file alias="shutdown.png">images/shutdown_icon.png</file>
+	</qresource>
+</RCC>
